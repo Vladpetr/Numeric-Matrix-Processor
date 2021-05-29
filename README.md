@@ -8,7 +8,11 @@
 * [x] Calculate the determinant
 * [x] Find the inverse of a matrix
 
+## Project demonstration
 
+Here's a walkthrough of some implemented features:
+
+<img src='Numeric Matrix Processor.png' title='Walkthrough' width='' alt='Walkthrough' />
 
 ## License
 
